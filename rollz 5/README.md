@@ -17,7 +17,7 @@
  
  (you may need to slightly alter the perimeter dimensions for fit.) 
  
- when you go to bed bath and beyond, undercover-like, for noise-synth parts, you have to hold your broadsword aloft and cry out "BEDBATHANDBEYOOOOONNNNDD!" in a death metal voice. i bet you didn't know that.)
+ when you go to bed bath and beyond, undercover-like, for noise-synth parts, you have to hold your broadsword aloft and cry out "BEDBATHANDBEYOOOOONNNNDD!" in a death metal voice. i bet you didn't know that.
  
  some mods needed to original design for this panel: 
   - aux inputs (green) for avdogs and gongs.
