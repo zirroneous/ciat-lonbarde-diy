@@ -12,7 +12,7 @@
  rollz 5 panel (by molg 2022):
  
  intended to fit into a 6x15" desk organizer, like this one:
- https://www.bedbathandbeyond.com/store/product/squared-away-acacia-drawer-organizer/5610667?keyword=acacia+wood+organizer
+ https://www.bedbathandbeyond.com/store/product/squared-away-acacia-drawer-organizer/5610667/
  
  (you may need to slightly alter the perimeter dimensions for fit.)
  
