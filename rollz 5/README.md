@@ -19,6 +19,7 @@
  
  some mods needed to original design for this panel: 
   - aux inputs (green) for avdogs and gongs.
+  - square outputs (red) for dogs.
   - "voice cut" switch for dogs and gongs
   - stereo output mixer
   - led drivers for 6, 4, and 6 rolls
