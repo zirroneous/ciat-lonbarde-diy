@@ -1,5 +1,5 @@
 # rollz 5
- rollz 5 - a kind of organic pulse-brain experimental "drum machine."
+ rollz 5 - a kind of "organic" pulse-brain experimental "drum machine."
  
  concerns the design by peter blasser here:
  http://ciat-lonbarde.net/ciat-lonbarde/rollz5/index.html
