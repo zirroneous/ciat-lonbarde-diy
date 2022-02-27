@@ -16,9 +16,16 @@
  
  (you may need to slightly alter the perimeter dimensions for fit.)
  
+ some mods needed to original design for this panel: 
+  - aux inputs (green) for avdogs and gongs.
+  - pulse cut switch for dogs and gongs
+  - stereo output mixer
+  - led drivers for 6, 4, and 6 rolls
+
  roll 5 companion concept panel (by molg 2022): 
  
  a sidekick box for the main rollz. designed for the 6x9" box of the same product line linked above.
+ 
  the idea: 
   - 1 cv-roolz 5-6 circuit (available as a pcb by crucfx, his paper circuit included in this repo.)
   - 1 of each 3, 4, and 5 rollz circuit to complete the pulse-brain "cluster"
