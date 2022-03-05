@@ -1,5 +1,8 @@
+![rollz 5 panel concept](https://raw.githubusercontent.com/zirroneous/ciat-lonbarde-diy/main/rollz%205/rollz5%20panel%20v0.1.png)
+
 # rollz 5
- rollz 5 - a kind of "organic" pulse-brain experimental "drum machine."
+
+rollz 5 - a kind of "organic" pulse-brain experimental "drum machine."
  
  concerns the design by peter blasser here:
  http://ciat-lonbarde.net/ciat-lonbarde/rollz5/index.html
@@ -9,7 +12,7 @@
  
  https://gitlab.com/tripping-on-wires/ciat-lonbarde-pcbs/-/tree/master/papers/roll
  
- rollz 5 panel (by molg 2022):
+ ## rollz 5 panel (by molg 2022):
  
  intended to fit into a 6x15" desk organizer, like this one:
  
@@ -24,9 +27,13 @@
   - square outputs (red) for dogs.
   - "voice cut" switch for dogs and gongs
   - stereo output mixer
-  - led drivers for 6, 4, and 6 rolls
+  - led drivers for 6, 4, and 6 rolls. 
 
- roll 5 companion concept panel (by molg 2022): 
+== ===
+
+![rollz 5 companion concept panel](https://raw.githubusercontent.com/zirroneous/ciat-lonbarde-diy/main/rollz%205/rollz5%20companion.png)
+
+ ## rollz 5 companion concept panel (by molg 2022): 
  
  a sidekick box for the main rollz. designed for the 6x9" box of the same product line linked above.
  
