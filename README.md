@@ -1,7 +1,11 @@
 # ciat-lonbarde-diy
- adventures with the sdiy designs of peter blasser
+ adventures with the paper circuit sdiy designs of **peter blasser**, aka **ciat-lonbarde**.
  
- inspired in no small part by the work of crucfx, pugix, and tripping on wires.
+ http://synthmall.com/
+ 
+ http://www.synthmall.com/ciat-lonbarde/paper/index.html
+ 
+ inspired in no small part by the work of **crucfx, pugix, and tripping on wires**.
 
 
 ## the panels
