@@ -15,5 +15,6 @@ https://www.bedbathandbeyond.com/store/product/squared-away-acacia-drawer-organi
 #### what next:
 
 - reworking of the rungling section of the panel. i was off on a tangent with the i/o section, i reckon..
+- some form of explanation is in order, i'm sure.
 
 #### <3, molg.
