@@ -16,6 +16,10 @@ https://www.bedbathandbeyond.com/store/product/squared-away-acacia-drawer-organi
 
 they're nice skiff size, with plenty of wiggle room inside at 2 inch tall.
 
+## the files
+
+are done in illustrator, and separated by layers. meaning, if you want to reproduce this work, all the vector data is there. once each design is verified, i'll export an **.svg** with only the panel border and hole placement.
+
 ### caveats
 
 i've taken liberties in interpreting some of these circuits. some concepts aren't practical, probably, and some require mods to the original circuit. i'll be fleshing out the info as i go, but for now, consider me another skeleton on the road to understanding the strange and beautiful synth-building work of peter blasser.
