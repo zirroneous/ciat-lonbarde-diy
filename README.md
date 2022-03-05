@@ -1,5 +1,5 @@
 # ciat-lonbarde-diy
- adventures with the paper circuit sdiy designs of **peter blasser**, aka **ciat-lonbarde**.
+ adventures with the [paper circuit](http://www.synthmall.com/ciat-lonbarde/paper/index.html) sdiy designs of **peter blasser**, aka **ciat-lonbarde**.
  
  http://synthmall.com/
  
@@ -10,7 +10,8 @@
 
 ## the panels
 
-are meant to fit into this line of 6 inch wide desk organizer boxes:
+are meant to fit into this line of 6 inch wide [desk organizer boxes](https://www.bedbathandbeyond.com/store/product/squared-away-acacia-drawer-organizer/5610667
+):
 
 https://www.bedbathandbeyond.com/store/product/squared-away-acacia-drawer-organizer/5610667
 
